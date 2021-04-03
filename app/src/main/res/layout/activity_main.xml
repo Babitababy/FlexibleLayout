@@ -16,8 +16,42 @@
 
        <ImageView
            android:layout_width="150dp"
+           android:scaleType="centerCrop"
+           android:src=""
            android:layout_height="wrap_content"
+           app:layout_flexGrow="1"
            />
+
+        <ImageView
+            android:layout_width="150dp"
+            android:scaleType="centerCrop"
+            android:src=""
+            android:layout_height="wrap_content"
+            app:layout_flexGrow="1"
+            />
+        <ImageView
+            android:layout_width="150dp"
+            android:scaleType="centerCrop"
+            android:src=""
+            android:layout_height="wrap_content"
+            app:layout_flexGrow="1"
+
+            />
+        <ImageView
+            android:layout_width="150dp"
+            android:scaleType="centerCrop"
+            android:src=""
+            android:layout_height="wrap_content"
+            app:layout_flexGrow="1"
+            />
+        <ImageView
+            android:layout_width="150dp"
+            android:scaleType="centerCrop"
+            android:src=""
+            android:layout_height="wrap_content"
+            app:layout_flexGrow="1"
+            />
+
     </com.google.android.flexbox.FlexboxLayout>
 
 </ScrollView>
