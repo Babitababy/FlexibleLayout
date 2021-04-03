@@ -17,7 +17,7 @@
        <ImageView
            android:layout_width="150dp"
            android:scaleType="centerCrop"
-           android:src=""
+           android:src="@drawable/one"
            android:layout_height="wrap_content"
            app:layout_flexGrow="1"
            />
@@ -25,14 +25,14 @@
         <ImageView
             android:layout_width="150dp"
             android:scaleType="centerCrop"
-            android:src=""
+            android:src="@drawable/two"
             android:layout_height="wrap_content"
             app:layout_flexGrow="1"
             />
         <ImageView
             android:layout_width="150dp"
             android:scaleType="centerCrop"
-            android:src=""
+            android:src="@drawable/three"
             android:layout_height="wrap_content"
             app:layout_flexGrow="1"
 
@@ -40,14 +40,14 @@
         <ImageView
             android:layout_width="150dp"
             android:scaleType="centerCrop"
-            android:src=""
+            android:src="@drawable/four"
             android:layout_height="wrap_content"
             app:layout_flexGrow="1"
             />
         <ImageView
             android:layout_width="150dp"
             android:scaleType="centerCrop"
-            android:src=""
+            android:src="@drawable/five"
             android:layout_height="wrap_content"
             app:layout_flexGrow="1"
             />
